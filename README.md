@@ -131,6 +131,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [Vitis](https://github.com/Xilinx/HLS) - LLVM based, made by Xilinx. [user manual](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2020_2/ug1399-vitis-hls.pdf)
 * [XLS](https://google.github.io/xls/) - 2020, HLS toolchain from Google
 * [hector](https://github.com/pku-liang/Hector) - 2022, An open-source hardware synthesis framework using MLIR
+* [Holoso](https://github.com/Zubax/holoso) - 2026+, high-level synthesis of portable Verilog from idiomatic Python for numerical/DSP applications
 
 
 ## Other HDL languages
