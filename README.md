@@ -138,6 +138,7 @@ A curated list of amazingly awesome hardware description language projects.
 
 * [act](https://github.com/asyncvlsi/act) - asynchronous circuit/compiler tools
 * [autopiper](https://github.com/google/autopiper)
+* [ORD](https://github.com/tub-msc/ordec) - Python-superset HDL for analog and mixed-signal IC design entry, part of the open-source ORDeC design platform
 * [Silice](https://github.com/sylefeb/Silice) - A language for hardcoding algorithms into FPGA hardware
 * [TL-Verilog](https://makerchip.com) - 2015+, Supports "timing-abstract" and "transaction-level design" methodologies; supported by proprietary and open-source tools
 * [AnvilHDL](https://github.com/kisp-nus/anvil) - 2025+, An HDL designed to help avoid common bugs while allowing low-level control through a Rust-like type system
