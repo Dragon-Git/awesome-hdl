@@ -62,6 +62,7 @@ A curated list of amazingly awesome hardware description language projects.
    - [reqack](https://github.com/drom/reqack) -  elastic circuit toolchain
    - [hdl-js](https://github.com/DmitrySoshnikov/hdl-js) - Hardware description language (HDL) parser, and Hardware simulator.
    - [shdl](https://github.com/jcbuisson/shdl) - Simple Hardware Description Language
+   - [irtl](https://github.com/drom/irtl) - a small intermediate representation (IR) builder for RTL. emits FIRRTL or Verilog
 
 * Julia
    - [Julia-Verilog](https://github.com/interplanetary-robot/Verilog.jl) - a Verilog-generation DSL for Julia., 2017
